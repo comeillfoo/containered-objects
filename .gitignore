@@ -1,0 +1,4 @@
+.venv
+lua-*
+build
+*.so
